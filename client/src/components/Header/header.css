@@ -1,0 +1,12 @@
+.div-1{
+    color: white;
+}
+.div-34{
+    flex: 1;
+    display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+
+

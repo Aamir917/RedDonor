@@ -1,0 +1,29 @@
+.flex-container{
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.flex-box{
+  width: 800px;
+  height: 600px;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  
+  background-color: black;
+  border-radius: 20px;
+  margin: 20px;
+}
+.img1{
+
+  width: 500px;
+  height: 450px;
+}
+.para{
+  color: white;
+  font-size: 25px;
+}
+.hello{
+  color: white;
+  text-decoration: solid;
+}
